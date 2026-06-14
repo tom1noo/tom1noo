@@ -1,4 +1,4 @@
-# Ahoj, ja som Tomáš Kocúrko.
+# Dobrý deň, som Tomáš Kocúrko.
 
 Študujem odbor **Informačné a sieťové technológie (IST)** na SPŠE v Prešove. Bavia ma hlavne sieťová technológie ale aj programovanie v Pythone.
 
